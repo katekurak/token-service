@@ -8,48 +8,48 @@ Open Sans is a variable font with these axes:
   wght
 
 This means all the styles are contained in these files:
-  Open_Sans/OpenSans-VariableFont_wdth,wght.ttf
-  Open_Sans/OpenSans-Italic-VariableFont_wdth,wght.ttf
+  OpenSans/OpenSans-VariableFont_wdth,wght.ttf
+  OpenSans/OpenSans-Italic-VariableFont_wdth,wght.ttf
 
 If your app fully supports variable fonts, you can now pick intermediate styles
 that aren’t available as static fonts. Not all apps support variable fonts, and
 in those cases you can use the static font files for Open Sans:
-  Open_Sans/static/OpenSans_Condensed-Light.ttf
-  Open_Sans/static/OpenSans_Condensed-Regular.ttf
-  Open_Sans/static/OpenSans_Condensed-Medium.ttf
-  Open_Sans/static/OpenSans_Condensed-SemiBold.ttf
-  Open_Sans/static/OpenSans_Condensed-Bold.ttf
-  Open_Sans/static/OpenSans_Condensed-ExtraBold.ttf
-  Open_Sans/static/OpenSans_SemiCondensed-Light.ttf
-  Open_Sans/static/OpenSans_SemiCondensed-Regular.ttf
-  Open_Sans/static/OpenSans_SemiCondensed-Medium.ttf
-  Open_Sans/static/OpenSans_SemiCondensed-SemiBold.ttf
-  Open_Sans/static/OpenSans_SemiCondensed-Bold.ttf
-  Open_Sans/static/OpenSans_SemiCondensed-ExtraBold.ttf
-  Open_Sans/static/OpenSans-Light.ttf
-  Open_Sans/static/OpenSans-Regular.ttf
-  Open_Sans/static/OpenSans-Medium.ttf
-  Open_Sans/static/OpenSans-SemiBold.ttf
-  Open_Sans/static/OpenSans-Bold.ttf
-  Open_Sans/static/OpenSans-ExtraBold.ttf
-  Open_Sans/static/OpenSans_Condensed-LightItalic.ttf
-  Open_Sans/static/OpenSans_Condensed-Italic.ttf
-  Open_Sans/static/OpenSans_Condensed-MediumItalic.ttf
-  Open_Sans/static/OpenSans_Condensed-SemiBoldItalic.ttf
-  Open_Sans/static/OpenSans_Condensed-BoldItalic.ttf
-  Open_Sans/static/OpenSans_Condensed-ExtraBoldItalic.ttf
-  Open_Sans/static/OpenSans_SemiCondensed-LightItalic.ttf
-  Open_Sans/static/OpenSans_SemiCondensed-Italic.ttf
-  Open_Sans/static/OpenSans_SemiCondensed-MediumItalic.ttf
-  Open_Sans/static/OpenSans_SemiCondensed-SemiBoldItalic.ttf
-  Open_Sans/static/OpenSans_SemiCondensed-BoldItalic.ttf
-  Open_Sans/static/OpenSans_SemiCondensed-ExtraBoldItalic.ttf
-  Open_Sans/static/OpenSans-LightItalic.ttf
-  Open_Sans/static/OpenSans-Italic.ttf
-  Open_Sans/static/OpenSans-MediumItalic.ttf
-  Open_Sans/static/OpenSans-SemiBoldItalic.ttf
-  Open_Sans/static/OpenSans-BoldItalic.ttf
-  Open_Sans/static/OpenSans-ExtraBoldItalic.ttf
+  OpenSans/static/OpenSans_Condensed-Light.ttf
+  OpenSans/static/OpenSans_Condensed-Regular.ttf
+  OpenSans/static/OpenSans_Condensed-Medium.ttf
+  OpenSans/static/OpenSans_Condensed-SemiBold.ttf
+  OpenSans/static/OpenSans_Condensed-Bold.ttf
+  OpenSans/static/OpenSans_Condensed-ExtraBold.ttf
+  OpenSans/static/OpenSans_SemiCondensed-Light.ttf
+  OpenSans/static/OpenSans_SemiCondensed-Regular.ttf
+  OpenSans/static/OpenSans_SemiCondensed-Medium.ttf
+  OpenSans/static/OpenSans_SemiCondensed-SemiBold.ttf
+  OpenSans/static/OpenSans_SemiCondensed-Bold.ttf
+  OpenSans/static/OpenSans_SemiCondensed-ExtraBold.ttf
+  OpenSans/static/OpenSans-Light.ttf
+  OpenSans/static/OpenSans-Regular.ttf
+  OpenSans/static/OpenSans-Medium.ttf
+  OpenSans/static/OpenSans-SemiBold.ttf
+  OpenSans/static/OpenSans-Bold.ttf
+  OpenSans/static/OpenSans-ExtraBold.ttf
+  OpenSans/static/OpenSans_Condensed-LightItalic.ttf
+  OpenSans/static/OpenSans_Condensed-Italic.ttf
+  OpenSans/static/OpenSans_Condensed-MediumItalic.ttf
+  OpenSans/static/OpenSans_Condensed-SemiBoldItalic.ttf
+  OpenSans/static/OpenSans_Condensed-BoldItalic.ttf
+  OpenSans/static/OpenSans_Condensed-ExtraBoldItalic.ttf
+  OpenSans/static/OpenSans_SemiCondensed-LightItalic.ttf
+  OpenSans/static/OpenSans_SemiCondensed-Italic.ttf
+  OpenSans/static/OpenSans_SemiCondensed-MediumItalic.ttf
+  OpenSans/static/OpenSans_SemiCondensed-SemiBoldItalic.ttf
+  OpenSans/static/OpenSans_SemiCondensed-BoldItalic.ttf
+  OpenSans/static/OpenSans_SemiCondensed-ExtraBoldItalic.ttf
+  OpenSans/static/OpenSans-LightItalic.ttf
+  OpenSans/static/OpenSans-Italic.ttf
+  OpenSans/static/OpenSans-MediumItalic.ttf
+  OpenSans/static/OpenSans-SemiBoldItalic.ttf
+  OpenSans/static/OpenSans-BoldItalic.ttf
+  OpenSans/static/OpenSans-ExtraBoldItalic.ttf
 
 Get started
 -----------
