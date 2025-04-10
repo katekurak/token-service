@@ -1,0 +1,1 @@
+import{_ as s,t,v as o,x as _,$ as a}from"./Csrg57Ls.js";const c={},n={class:"badge"},r={class:"badge__text"};function d(e,l){return o(),t("div",n,[_("span",r,[a(e.$slots,"default")])])}const i=s(c,[["render",d]]);export{i as _};

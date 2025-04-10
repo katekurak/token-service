@@ -1,0 +1,1 @@
+import{d as n,j as c,t as r,v as t,W as l,$ as d}from"./Csrg57Ls.js";const m=n({__name:"BadgeIcon",props:{color:{}},setup(e){const o=e,s=c(()=>o.color?`badge-icon badge-icon--${o.color}`:"badge-icon");return(a,p)=>(t(),r("div",{class:l(s.value)},[d(a.$slots,"default")],2))}});export{m as _};
